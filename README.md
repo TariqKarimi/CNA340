@@ -1,5 +1,5 @@
 # readme.md.py
-when i run a code asking for discount i get the result of discount, for example if i run a code asking for 50.0 % discount i get the result as a follow: $200.0 descounted by 50.0% is $00.0
+when i run a code asking for discount i get the result of discount, for example if i run a code asking for 50.0 % discount i get the result as a follow: $200.0 descounted by 50.0% is $100.0
 
 
 One Paragraph of project description goes here.
